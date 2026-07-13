@@ -29,7 +29,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **your expertise areas**
 - 📫 How to reach me: **imran.sheik.ib@gmail.com**
-- ⚡ Fun fact: **something interesting about you**
+- ⚡ Fun fact: **I can debug code faster than I can find my own keys**
 
 ---
 
