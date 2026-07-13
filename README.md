@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Imran S</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi+There%2C+I'm+Imran+S+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=58A6FF" />
 </p>
 
 <p align="center">
@@ -14,6 +24,9 @@
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -88,6 +101,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This snake animates your real contribution graph. Set it up with the free **[Platane/snk](https://github.com/Platane/snk)** GitHub Action — instructions below.
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/yourusername">yourusername</a> — thanks for stopping by!</i>
